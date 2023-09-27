@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "First Name": "Megh",
+      "Last Name": "Jain",
+      "Date of Birth": "2023-09-30",
+      "married": true,
+      "photo": "",
+      "id": 1
+    },
+    {
+      "First Name": "test",
+      "Last Name": "user",
+      "Date of Birth": "2023-09-08",
+      "married": false,
+      "photo": "",
+      "id": 2
+    }
+  ]
+}
